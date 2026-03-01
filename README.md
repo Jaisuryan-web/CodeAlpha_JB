@@ -1,8 +1,8 @@
-# 🚀 Job Board Platform - Premium Edition
+#  Job Board Platform - Premium Edition
 
 A stunning, full-featured job board platform with beautiful gradients and modern UI/UX.
 
-## ✨ Features
+##  Features
 
 ### Backend (Django REST Framework)
 - 🔐 JWT Authentication & Authorization
