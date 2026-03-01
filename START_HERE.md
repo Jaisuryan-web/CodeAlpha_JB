@@ -1,6 +1,6 @@
-# 🚀 Job Board Platform - Quick Start Guide
+# Job Board Platform - Quick Start Guide
 
-## ✅ Project Status: READY TO USE!
+##  Project Status: READY TO USE!
 
 Both backend and frontend are running successfully!
 
@@ -17,7 +17,7 @@ Both backend and frontend are running successfully!
 
 ---
 
-## 👤 Test Accounts
+##  Test Accounts
 
 ### Admin Account (Django Admin)
 - **Username:** admin
@@ -36,9 +36,9 @@ Both backend and frontend are running successfully!
 
 ---
 
-## 🎨 Features Implemented
+##  Features Implemented
 
-### ✨ Stunning Frontend
+###  Stunning Frontend
 - **Beautiful Gradients** - Modern gradient backgrounds and text effects
 - **Glass Morphism** - Frosted glass card effects
 - **Smooth Animations** - Framer Motion animations throughout
