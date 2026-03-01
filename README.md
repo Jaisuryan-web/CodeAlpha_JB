@@ -26,7 +26,7 @@ A stunning, full-featured job board platform with beautiful gradients and modern
 ## 🛠️ Tech Stack
 
 **Backend:**
-- Django 5.0
+- Django version 5.0
 - Django REST Framework
 - PostgreSQL / SQLite
 - JWT Authentication
