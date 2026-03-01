@@ -42,7 +42,7 @@ A stunning, full-featured job board platform with beautiful gradients and modern
 - Axios
 - React Router
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Backend Setup
 ```bash
@@ -75,7 +75,7 @@ npm run dev
 - `GET /api/employers/` - List employers
 - `GET /api/candidates/` - List candidates
 
-## 🎨 Design Features
+##  Design Features
 
 - Beautiful gradient backgrounds
 - Smooth animations and transitions
