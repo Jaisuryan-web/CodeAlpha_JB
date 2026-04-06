@@ -1,6 +1,6 @@
 # 📖 Complete User Guide - Job Board Platform
 
-## 🎯 Overview
+##  Overview
 
 Your job board now has **18 jobs** across all categories:
 - ✅ 8 Full-time positions
